@@ -1,3 +1,0 @@
-SGR
-SCB
-FCH
