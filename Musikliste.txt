@@ -1,7 +1,3 @@
-SGR
-SCB
-FCH
-FCF
-FCB
-UHG
-Toll
+Layla
+Flieger
+Hippo
